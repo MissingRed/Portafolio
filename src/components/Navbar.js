@@ -22,7 +22,7 @@ const Navbar = () => {
               >
                 Portafolio
               </NavLink>
-              <NavLink to="/" activeClassName="selectedNav" className="items">
+              <NavLink to="/Cv" activeClassName="selectedNav" className="items">
                 Cv
               </NavLink>
               <NavLink to="/" activeClassName="selectedNav" className="items">
